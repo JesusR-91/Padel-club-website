@@ -1,2 +1,4 @@
 # Padel-club-website
-Php and Mysql project
+Project done to test the basics using PHP and Mysql.
+
+It currently has a lot of things to do, but it has helped me to test what I know so far.
