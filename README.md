@@ -1,5 +1,5 @@
 # Padel-club-website
-Project done to test the basics using PHP and Mysql.
+Project done to test the basics using PHP, Mysql and WampServer.
 
 It currently has a lot of things to do, but it has helped me to test what I know so far.
 
